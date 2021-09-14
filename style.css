@@ -69,18 +69,3 @@ ul {
     box-sizing: border-box;
   }
   
-  .left {
-    background-color: #2196F3;
-    padding: 20px;
-    float: left;
-    width: 5%;
-  }
-  
-  .main {
-    background-color: #f1f1f1;
-    padding: 20px;
-    float: left;
-    width: 95%;
-  }
-  
-  
