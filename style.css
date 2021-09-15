@@ -69,3 +69,13 @@ ul {
     box-sizing: border-box;
   }
   
+  body {
+    background-color: #ffebb4;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgba(0, 0, 0, 0.774);
+    color: white;
+  }

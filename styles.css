@@ -1,7 +1,7 @@
 .all-browsers {
     margin: 0;
     padding: 5px;
-    background-color: rgb(2, 201, 201);
+    background-color: #ffebb4;
   }
 
   .all-browsers>h1,
@@ -14,15 +14,7 @@
     background: white;
   }
 
-  .browser>h2,
-  p {
-    margin: 4px;
-    font-size: 90%;
-}
-
-
-
-
+  
 .sidebar {
   margin: 0;
   padding: 0;
