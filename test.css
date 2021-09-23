@@ -180,6 +180,9 @@ body {
     text-align: left;
     background-color: #000000;
 }
+.card img {
+  height: 400px;
+}
 
 .sidenav {
   height: 100%;
