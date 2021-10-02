@@ -1,3 +1,16 @@
+article {
+  background-color: black;
+}
+
+section {
+  background-color: black;
+  height: 400px;
+}
+
+.card {
+  background-color: black;
+}
+
 * {
   box-sizing: border-box;
   margin:0;
@@ -105,9 +118,6 @@ ul {
   }
 
 
-  article {
-    background-color: #000000;
-  }
 
 
   .grid-container {
@@ -178,7 +188,6 @@ body {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     padding: 16px;
     text-align: left;
-    background-color: #000000;
 }
 .card img {
   height: 400px;
